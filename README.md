@@ -29,7 +29,7 @@ Kafka • Redis • MongoDB • Docker • Prometheus • Grafana
 
 Event-driven notification platform demonstrating asynchronous processing, fault tolerance, horizontal worker scaling, retries, idempotency, and production observability.
 
-[View Relay →]([https://github.com/Manikanta-kovvuri/relay])
+[View Relay →][https://github.com/Manikanta-kovvuri/relay]
 
 ### Nestly
 
