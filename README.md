@@ -39,7 +39,7 @@ Node.js • React • MongoDB • AWS • Docker
 
 Multi-tenant SaaS platform designed for property owners and tenants with authentication, role-based access control, rental workflows, maintenance management, and payment processing.
 
-[View Nestly →](https://github.com/Manikanta-kovvuri/Nestly-Multi_Tenant_property_management_system)
+[View Nestly →](https://github.com/Manikanta-kovvuri/nestly)
 
 ---
 
