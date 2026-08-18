@@ -73,4 +73,4 @@ Backend services • REST APIs • Database engineering • School management pl
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/manikanta-kovvuri/) • [Portfolio](YOUR_PORTFOLIO_URL)
+[LinkedIn](https://www.linkedin.com/in/manikanta-kovvuri/) 
