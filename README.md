@@ -13,9 +13,9 @@ I focus on designing reliable systems, improving backend performance, and buildi
 - Distributed Systems & Event-Driven Architecture
 - High-Availability & Scalable Backend Services
 - API Design & Microservices
-- Database Performance & Caching
-- Reliability, Fault Tolerance & Observability
-- Cloud-Native Infrastructure
+- Database Performance & Query Optimization
+- Caching, Reliability & Fault Tolerance
+- Cloud-Native Infrastructure & Observability
 
 ---
 
@@ -27,7 +27,7 @@ I focus on designing reliable systems, improving backend performance, and buildi
 
 Kafka • Redis • MongoDB • Docker • Prometheus • Grafana
 
-Event-driven notification platform demonstrating asynchronous processing, fault tolerance, horizontal worker scaling, retries, idempotency, and production observability.
+Event-driven notification platform demonstrating asynchronous processing, distributed workers, fault tolerance, retries, idempotency, rate limiting, and production observability.
 
 [View Relay →](https://github.com/Manikanta-kovvuri/relay)
 
@@ -35,9 +35,9 @@ Event-driven notification platform demonstrating asynchronous processing, fault 
 
 **Multi-Tenant Property Management Platform**
 
-Node.js • React • MongoDB • AWS • Docker
+NestJS • React • PostgreSQL • Prisma • JWT • Docker
 
-Multi-tenant SaaS platform designed for property owners and tenants with authentication, role-based access control, rental workflows, maintenance management, and payment processing.
+Full-stack SaaS platform for property owners and tenants implementing JWT authentication, role-based access control, multi-tenant ownership isolation, property and unit management, tenant and lease workflows, payment tracking, maintenance management, and dashboard analytics.
 
 [View Nestly →](https://github.com/Manikanta-kovvuri/nestly)
 
@@ -47,25 +47,25 @@ Multi-tenant SaaS platform designed for property owners and tenants with authent
 
 **Languages:** C# • TypeScript • JavaScript • C++ • SQL
 
-**Backend:** .NET Core • Node.js • REST APIs • Microservices
+**Backend:** .NET Core • NestJS • Node.js • REST APIs • Microservices
 
-**Distributed Systems:** Kafka • Redis • Event-Driven Architecture • Rate Limiting • Idempotency
+**Distributed Systems:** Kafka • Redis • Event-Driven Architecture • Rate Limiting • Idempotency • Caching
 
-**Databases:** SQL Server • MongoDB • MySQL
+**Databases:** SQL Server • PostgreSQL • MongoDB • MySQL • Prisma • Query Optimization
 
 **Cloud & Infrastructure:** AWS • Azure • Docker • Kubernetes • CI/CD
 
-**Observability:** Prometheus • Grafana
+**Observability:** Prometheus • Grafana • Application Monitoring
 
 ---
 
 ## 💼 Professional Experience
 
-**Software Development Engineer 2 — Wipro**
+### Software Development Engineer 2 — Wipro
 
-Enterprise backend systems • API reliability • SQL performance optimization • Redis caching • Production engineering
+Enterprise backend systems • API integrations • SQL performance optimization • Redis caching • Production engineering
 
-**Software Development Engineer — Motherboard Education**
+### Software Development Engineer — Motherboard Education
 
 Backend services • REST APIs • Database engineering • School management platform
 
